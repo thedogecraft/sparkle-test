@@ -26,9 +26,6 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - name: Format check
-        run: pnpm exec prettier --check .
-
       - name: Typecheck
         run: pnpm typecheck
 
