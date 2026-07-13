@@ -69,8 +69,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "Parcoil",
-        "repo": "Sparkle",
+        "owner": "thedogecraft",
+        "repo": "sparkle-test",
         "releaseType": "release"
       }
     ],
